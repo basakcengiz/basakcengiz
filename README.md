@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basakcengiz&label=Profile%20views&color=0e75b6&style=flat" alt="basakcengiz" /> </p>
 
-- 🔭 I’m currently working on **Softalya Software.**
-
-- 🌱 I’m currently learning **Next.js.**
-
 - 👨‍💻 All of my projects are available at [https://basak-portfolio.vercel.app/](https://basak-portfolio.vercel.app/)
 
 - 💬 Ask me about **anything!**
